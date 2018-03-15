@@ -1,0 +1,11 @@
+C:\Users\Noel\source\repos\PrimosApp\PrimosApp\bin\Debug\netcoreapp2.0\PrimosApp.deps.json
+C:\Users\Noel\source\repos\PrimosApp\PrimosApp\bin\Debug\netcoreapp2.0\PrimosApp.runtimeconfig.json
+C:\Users\Noel\source\repos\PrimosApp\PrimosApp\bin\Debug\netcoreapp2.0\PrimosApp.runtimeconfig.dev.json
+C:\Users\Noel\source\repos\PrimosApp\PrimosApp\bin\Debug\netcoreapp2.0\PrimosApp.dll
+C:\Users\Noel\source\repos\PrimosApp\PrimosApp\bin\Debug\netcoreapp2.0\PrimosApp.pdb
+C:\Users\Noel\source\repos\PrimosApp\PrimosApp\obj\Debug\netcoreapp2.0\PrimosApp.csprojResolveAssemblyReference.cache
+C:\Users\Noel\source\repos\PrimosApp\PrimosApp\obj\Debug\netcoreapp2.0\PrimosApp.csproj.CoreCompileInputs.cache
+C:\Users\Noel\source\repos\PrimosApp\PrimosApp\obj\Debug\netcoreapp2.0\PrimosApp.AssemblyInfoInputs.cache
+C:\Users\Noel\source\repos\PrimosApp\PrimosApp\obj\Debug\netcoreapp2.0\PrimosApp.AssemblyInfo.cs
+C:\Users\Noel\source\repos\PrimosApp\PrimosApp\obj\Debug\netcoreapp2.0\PrimosApp.dll
+C:\Users\Noel\source\repos\PrimosApp\PrimosApp\obj\Debug\netcoreapp2.0\PrimosApp.pdb
